@@ -1,0 +1,12 @@
+{
+  "name": "mApp_2",
+  "displayName": "mApp_2",
+  "expo": {
+    "name": "mApp_2",
+    "slug": "mApp_2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
